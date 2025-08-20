@@ -1,5 +1,3 @@
-# Earth Online daily newspaper system
-Post daily tasks and the status of the day to your mailbox.
 # 🎮 Earth Online Daily Report System
 
 An AI-powered daily life gamification assistant that transforms your daily routine into an engaging RPG-style experience! Automatically sends personalized "gamified daily reports" to your inbox every morning.
