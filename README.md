@@ -10,6 +10,11 @@ An AI-powered daily life gamification assistant that transforms your daily routi
 - ⏰ **Automated Scheduling**: Sends reports automatically every morning
 - 🎯 **Gamified Experience**: Transforms daily tasks into RPG-style quests and challenges
 
+##🤖 Preference & Schedule Optimization Engine
+- ✨ Preference Learning Engine：Learns user preferences from multi-dimensional data and generates personalized, theme-based content.
+- ⏰ Schedule Optimization Engine：Predicts task success, matches energy levels, and optimizes schedules for maximum productivity.
+- 🚀 Advanced Features：Enhances adaptability with feature engineering, ensemble learning, and context-aware recommendations.
+
 ## 📧 Email Sample
 
 ```
